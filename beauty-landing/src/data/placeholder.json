@@ -1,0 +1,919 @@
+{
+  "site": {
+    "name": "Into the Curlz",
+    "tagline": "Curls that are understood. Celebrated. Styled to help you look and feel fabulous.",
+    "description": "Into the Curlz is a curl-positive salon in the heart of Shropshire, led by Hayley Imran — an internationally trained curly hair specialist with over 20 years of experience transforming wavy, curly, and coily hair.",
+    "logo": {
+      "default": "/assets/images/logo.svg",
+      "light": "/assets/images/logo-light.svg",
+      "alt": "Into the Curlz — Hayley Imran Curly Hair Salon"
+    },
+    "seo": {
+      "title": "Into the Curlz — Curly Hair Specialist in Shropshire",
+      "description": "Curl-positive salon in Shropshire led by Hayley Imran, an internationally trained curly hair specialist with 20+ years of experience. Curl-by-curl cuts, colour, Qiqi, perms, and a curl-focused product line for wavy, curly, and coily hair.",
+      "keywords": [
+        "curly hair salon Shropshire",
+        "curly hair specialist",
+        "curl-by-curl cut",
+        "curly hair colour",
+        "Qiqi hair control",
+        "twist out salon",
+        "curly hair products",
+        "wavy curly coily hair",
+        "Hayley Imran",
+        "Into the Curlz"
+      ],
+      "ogImage": "https://placehold.co/1200x630/0a0a0a/ffffff?text=Into+the+Curlz"
+    },
+    "theme": {
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "backgroundColor": "#ffffff",
+      "accentColor": "#171717",
+      "foregroundColor": "#0a0a0a",
+      "mutedColor": "#737373"
+    }
+  },
+  "navbar": {
+    "brandName": "Into the Curlz",
+    "tagline": "CURLS THAT ARE",
+    "logo": {
+      "default": "/assets/images/logo.svg",
+      "light": "/assets/images/logo-light.svg",
+      "alt": "Into the Curlz — Hayley Imran Curly Hair Salon"
+    },
+    "heroImage": "https://placehold.co/200x80/d4a574/d4a574?text=+",
+    "links": [
+      {
+        "name": "HOME",
+        "href": "/"
+      },
+      {
+        "name": "ABOUT HAYLEY",
+        "href": "#about"
+      },
+      {
+        "name": "SERVICES",
+        "href": "/services"
+      },
+      {
+        "name": "PRODUCTS",
+        "href": "#products"
+      },
+      {
+        "name": "GALLERY",
+        "href": "#footer"
+      },
+      {
+        "name": "CONTACT",
+        "href": "#footer"
+      }
+    ],
+    "cta": {
+      "label": "BOOK YOUR CURL APPOINTMENT",
+      "price": "",
+      "href": "#footer"
+    },
+    "contact": {
+      "phone": "+44 1743 000 000",
+      "email": "hello@intothecurlz.co.uk"
+    },
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com/intothecurlz",
+        "icon": "facebook"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com/intothecurlz",
+        "icon": "instagram"
+      },
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/intothecurlz",
+        "icon": "twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com/company/intothecurlz",
+        "icon": "linkedin"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com/@intothecurlz",
+        "icon": "youtube"
+      }
+    ]
+  },
+  "hero": {
+    "backgroundText": ".CURLZ",
+    "tagline": "A CURL-POSITIVE SALON IN THE HEART OF SHROPSHIRE, LED BY HAYLEY — EXPERT CURL KNOWLEDGE, HONEST ADVICE, AND SERIOUSLY GOOD HAIR DAYS.",
+    "scrollText": "[ Scroll to explore ]",
+    "images": [
+      "/assets/images/hero/hero-1.avif",
+      "/assets/images/hero/hero-2.avif",
+      "/assets/images/hero/hero-3.avif",
+      "/assets/images/hero/hero-4.avif",
+      "/assets/images/hero/hero-5.avif"
+    ],
+    "cta": {
+      "label": "BOOK YOUR FABULOUS CURL APPOINTMENT",
+      "href": "#footer"
+    },
+    "marqueeText": "CURLS UNDERSTOOD • CELEBRATED • STYLED TO FEEL FABULOUS • ",
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com/intothecurlz",
+        "icon": "facebook"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com/intothecurlz",
+        "icon": "instagram"
+      },
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/intothecurlz",
+        "icon": "twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com/company/intothecurlz",
+        "icon": "linkedin"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com/@intothecurlz",
+        "icon": "youtube"
+      }
+    ]
+  },
+  "about": {
+    "headlineLines": [
+      {
+        "text": "A SALON WHERE CURLS",
+        "style": "outline"
+      },
+      {
+        "text": "ARE UNDERSTOOD,",
+        "style": "outline"
+      },
+      {
+        "text": "CELEBRATED, AND STYLED",
+        "style": "outline"
+      },
+      {
+        "text": "TO FEEL FABULOUS",
+        "style": "filled"
+      }
+    ],
+    "cta": {
+      "label": "MEET HAYLEY",
+      "href": "#footer"
+    }
+  },
+  "services": {
+    "sectionTitle": "THE CURL MENU",
+    "description": "Science-led, curl-positive care for wavy, curly, and coily hair. Every appointment is fully tailored to you — no shortcuts, no one-size-fits-all routines. Explore a few of our signature services, or browse the full menu.",
+    "items": [
+      {
+        "id": "001",
+        "title": "Curl Cut & Style",
+        "description": "A complete curl-by-curl experience shaped in its natural state to enhance movement, definition, and the way your curls grow out at home.",
+        "image": "/assets/images/services/hair-dressing.avif",
+        "href": "/services#curl-cut-and-style"
+      },
+      {
+        "id": "002",
+        "title": "Curly Hair Colour",
+        "description": "Cruelty-free, vegan colour formulated with aloe vera, rice protein, and bilberry — placed to work with your curl pattern, not against it.",
+        "image": "/assets/images/services/facial.avif",
+        "href": "/services#curly-hair-colour"
+      },
+      {
+        "id": "003",
+        "title": "Qiqi Hair Control",
+        "description": "A salon-grade texture service that softens, smooths, and gives you total control — without formaldehyde, harsh chemicals, or compromise.",
+        "image": "/assets/images/services/esthetic.avif",
+        "href": "/services#qiqi-hair-control"
+      },
+      {
+        "id": "004",
+        "title": "Nut Oil Curl Treatment",
+        "description": "A deeply nourishing, nut-oil-rich treatment that restores moisture and leaves curls softer, shinier, and more resilient from scalp to ends.",
+        "image": "/assets/images/services/wellness.avif",
+        "href": "/services#nut-oil-treatment"
+      }
+    ],
+    "cta": {
+      "label": "SEE THE FULL CURL MENU",
+      "href": "/services"
+    }
+  },
+  "products": {
+    "sectionTitle": "THE CURL COLLECTION",
+    "description": "Hayley's own curl-focused product line — developed over years of hands-on experience, styling, and real-world testing. Designed to enhance, define, and protect wavy, curly, and coily hair between salon visits.",
+    "items": [
+      {
+        "id": "product-1",
+        "name": "Define Curl Cream",
+        "price": "22.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/1.avif",
+        "href": "#products"
+      },
+      {
+        "id": "product-2",
+        "name": "Hydrate Leave-In Conditioner",
+        "price": "19.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/2.avif",
+        "href": "#products"
+      },
+      {
+        "id": "product-3",
+        "name": "Nourish Nut Oil Elixir",
+        "price": "26.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/3.avif",
+        "href": "#products"
+      },
+      {
+        "id": "product-4",
+        "name": "Protect Curl Gel",
+        "price": "18.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/4.avif",
+        "href": "#products"
+      },
+      {
+        "id": "product-5",
+        "name": "Moisture Cleansing Wash",
+        "price": "20.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/5.avif",
+        "href": "#products"
+      },
+      {
+        "id": "product-6",
+        "name": "Revive Curl Refresh Mist",
+        "price": "16.00",
+        "currency": "GBP",
+        "image": "/assets/images/products/6.avif",
+        "href": "#products"
+      }
+    ],
+    "cta": {
+      "label": "SHOP THE CURL COLLECTION",
+      "href": "#products"
+    }
+  },
+  "values": {
+    "sectionTitle": "THE CURL PHILOSOPHY",
+    "description": "Every curl pattern is unique — so every appointment is. Our approach blends curl science, long-term hair health, and honest, personalised care to help you love your natural texture.",
+    "items": [
+      {
+        "id": "001",
+        "title": "Curl Science First",
+        "description": "Every cut, colour, and treatment is rooted in real curl knowledge — porosity, pattern, density, and condition — so your results work with your hair, not against it.",
+        "image": "/assets/images/values/value-1.avif"
+      },
+      {
+        "id": "002",
+        "title": "Personalised, Always",
+        "description": "No one-size-fits-all routines. Every appointment is fully tailored to your curl pattern, lifestyle, and long-term hair goals — no shortcuts, no rushing.",
+        "image": "/assets/images/values/value-2.avif"
+      },
+      {
+        "id": "003",
+        "title": "Curl-Positive Care",
+        "description": "A welcoming space where wavy, curly, and coily hair is championed — not tamed. Honest advice, warm energy, and styling that celebrates your natural texture.",
+        "image": "/assets/images/values/value-3.avif"
+      },
+      {
+        "id": "004",
+        "title": "Health-First Styling",
+        "description": "Cruelty-free, vegan products and damage-free techniques. Hair health comes first, so your curls leave the salon stronger, softer, and full of life.",
+        "image": "/assets/images/values/value-4.avif"
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "CURL STORIES",
+    "items": [
+      {
+        "id": "testimonial-1",
+        "quote": "Hayley is the first stylist who has ever truly understood my curls. I walked out with definition, shape, and — for the first time in years — the confidence to wear my hair down.",
+        "author": "Emma R.",
+        "role": "Shrewsbury",
+        "avatar": "/assets/images/testimonials/avatar-1.avif",
+        "rating": 5
+      },
+      {
+        "id": "testimonial-2",
+        "quote": "The Qiqi treatment has been a complete game-changer. My frizz is gone, my curls are softer, and my hair has never felt healthier. Worth every minute of the consultation.",
+        "author": "Priya S.",
+        "role": "Telford",
+        "avatar": "/assets/images/testimonials/avatar-2.avif",
+        "rating": 5
+      },
+      {
+        "id": "testimonial-3",
+        "quote": "My daughter actually looks forward to haircuts now. Hayley is wonderful with children and has taught us both how to care for her curls at home. We won't go anywhere else.",
+        "author": "Laura M.",
+        "role": "Oswestry",
+        "avatar": "/assets/images/testimonials/avatar-3.avif",
+        "rating": 5
+      },
+      {
+        "id": "testimonial-4",
+        "quote": "I've had curly hair my whole life and never felt like a salon could handle it. Into the Curlz is different — every detail is personalised, and the advice I leave with is just as valuable as the cut.",
+        "author": "Sofia B.",
+        "role": "Ludlow",
+        "avatar": "/assets/images/testimonials/avatar-4.avif",
+        "rating": 5
+      }
+    ],
+    "cta": {
+      "label": "BOOK YOUR APPOINTMENT",
+      "href": "#footer"
+    }
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "sectionNumber": "06",
+    "headline": "Curl Questions, Answered",
+    "description": "Everything you need to know before your first appointment — from consultations and skin tests to caring for your curls between visits.",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "I'm new to curly hair care — what should I book first?",
+        "answer": "If it's your first visit, a Curl Cut & Style is the perfect place to start. We begin with an in-depth consultation to talk through your curl history, lifestyle, and hair goals, then shape your curls curl-by-curl in their natural state. You'll leave with a tailored cut, styled curls, and personalised guidance on how to look after them at home."
+      },
+      {
+        "id": "faq-2",
+        "question": "Do I need a consultation before my appointment?",
+        "answer": "A separate consultation is required before booking the Qiqi Hair Control Service, the Modern Perm Service, and any first-time colour or lighting appointment. This lets us assess your hair's condition, porosity, and suitability, carry out a skin test where needed, and create a tailored plan so you get the best possible result — safely."
+      },
+      {
+        "id": "faq-3",
+        "question": "How should I arrive for a Curly Hair Refresh Cut?",
+        "answer": "Refresh Cuts are carried out on dry hair only, so please come to the salon with your curls freshly washed, dried, and styled in your natural curl pattern. This allows each curl to be cut in its true state, so the shape sits exactly as it does in everyday wear. If it's been more than 8 weeks since your last cut, a full Curl Cut & Style is recommended instead."
+      },
+      {
+        "id": "faq-4",
+        "question": "What makes your colour service curl-friendly?",
+        "answer": "Our curly hair colour uses a cruelty-free, vegan, high-moisture formula enriched with aloe vera, rice protein, and bilberry. It's placed to work with your natural curl pattern — adding dimension, brightness, or depth without compromising curl definition. First-time colour clients complete a skin test and consultation before their appointment."
+      },
+      {
+        "id": "faq-5",
+        "question": "How long does a Twist Out last?",
+        "answer": "Twists are left in as a protective style for up to one week. After that, you can release the twists yourself at home, or book a follow-up appointment to have them professionally released and styled in the salon. It's a low-manipulation style designed to protect moisture and enhance your natural coil pattern."
+      },
+      {
+        "id": "faq-6",
+        "question": "Is Qiqi safe for curly and coloured hair?",
+        "answer": "Yes. Qiqi is a modern, damage-free treatment — no formaldehyde, no harsh chemicals, and no outdated processes. It works by gently softening the hair's internal bonds rather than breaking them, keeping curl integrity and hair health front and centre. A consultation is required so we can tailor the service to your hair and desired outcome."
+      },
+      {
+        "id": "faq-7",
+        "question": "Do you work with children?",
+        "answer": "Absolutely. Our Children's Curly Cut is designed especially for growing wavy, curly, and coily hair. Each cut is carried out with the curls in their natural state, and we take time to teach parents simple at-home skills so curls stay healthy and happy between appointments."
+      },
+      {
+        "id": "faq-8",
+        "question": "Do you sell curl products I can use at home?",
+        "answer": "Yes — Hayley has developed her own curl-focused product line, created to enhance, define, and protect wavy, curly, and coily hair. You'll be given personalised product recommendations at your appointment, and you can shop the full range in the salon or from The Curl Collection on this site."
+      }
+    ],
+    "cta": {
+      "label": "Get In Touch",
+      "href": "#footer"
+    }
+  },
+  "footer": {
+    "brand": {
+      "name": "Into the Curlz",
+      "logo": "/assets/images/logo.svg"
+    },
+    "address": {
+      "title": "Visit the Salon",
+      "text": "Into the Curlz, Shropshire, United Kingdom (full address on booking confirmation)"
+    },
+    "contact": {
+      "title": "Connect",
+      "phone": "+44 1743 000 000",
+      "email": "hello@intothecurlz.co.uk"
+    },
+    "pages": {
+      "title": "Explore",
+      "column1": [
+        {
+          "name": "Home",
+          "href": "/"
+        },
+        {
+          "name": "About Hayley",
+          "href": "#about"
+        },
+        {
+          "name": "Services",
+          "href": "/services"
+        }
+      ],
+      "column2": [
+        {
+          "name": "Products",
+          "href": "#products"
+        },
+        {
+          "name": "Gallery",
+          "href": "#footer"
+        },
+        {
+          "name": "Contact",
+          "href": "#footer"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Curl Care, In Your Inbox",
+      "placeholder": "Your email address",
+      "buttonText": "SUBSCRIBE",
+      "privacyText": "By subscribing you agree to our",
+      "privacyLink": {
+        "text": "Privacy Policy",
+        "href": "#footer"
+      }
+    },
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com/intothecurlz",
+        "icon": "facebook"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com/intothecurlz",
+        "icon": "instagram"
+      },
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/intothecurlz",
+        "icon": "twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com/company/intothecurlz",
+        "icon": "linkedin"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com/@intothecurlz",
+        "icon": "youtube"
+      }
+    ],
+    "copyright": "2026 Into the Curlz. All rights reserved.",
+    "credits": {
+      "poweredBy": {
+        "text": "Powered by",
+        "name": "Next.js"
+      },
+      "madeBy": {
+        "text": "Crafted by",
+        "name": "Into the Curlz"
+      }
+    }
+  },
+  "servicesPage": {
+    "heading": {
+      "eyebrow": "THE CURL MENU",
+      "title": "Curls that are understood.\nCelebrated. Styled to feel fabulous.",
+      "description": "Explore the full service menu below. Tap any service to read the full description. Consultations are required for Qiqi, Modern Perm, and any first-time colour appointment."
+    },
+    "categories": [
+      {
+        "id": "curl-care",
+        "title": "Curl Care & Cutting",
+        "serviceIds": [
+          "curl-cut-and-style",
+          "curl-style-no-cut",
+          "curly-refresh-cut",
+          "childrens-curly-cut",
+          "twist-out"
+        ]
+      },
+      {
+        "id": "treatments",
+        "title": "Treatments & Texture",
+        "serviceIds": [
+          "nut-oil-treatment",
+          "protein-treatment",
+          "qiqi-hair-control",
+          "modern-perm"
+        ]
+      },
+      {
+        "id": "colour",
+        "title": "Colour & Lighting",
+        "serviceIds": [
+          "curly-hair-colour",
+          "lighting-services"
+        ]
+      },
+      {
+        "id": "classic",
+        "title": "Classic Styling",
+        "serviceIds": [
+          "signature-haircut-blowdry",
+          "fabulous-blowdry-styling"
+        ]
+      }
+    ],
+    "services": [
+      {
+        "id": "curl-cut-and-style",
+        "title": "Curl Cut & Style",
+        "subtitle": "Curl-by-Curl",
+        "brief": "A complete curl-by-curl experience, shaped in its natural state to enhance movement, definition, and the way your curls grow out at home.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A complete curl experience, shaped curl by curl to celebrate your natural texture. This service is fully tailored to your individual curl pattern, whether your hair is wavy, curly, or coily. Using a curl-by-curl cutting technique, I work with your hair in its natural state, shaping each curl to enhance balance, movement, and definition — never forcing curls into a shape they don't want to be."
+          },
+          {
+            "type": "paragraph",
+            "text": "Every appointment begins with an in-depth consultation, where we talk through your curl history, lifestyle, and hair goals. From there, your curls are cut with intention, ensuring the finished shape grows out beautifully and is easy to manage at home."
+          },
+          {
+            "type": "paragraph",
+            "text": "Your hair is then cleansed, conditioned, and styled using curl-focused products and techniques chosen specifically for your hair's needs. You'll also receive personalised guidance on styling, product use, and curl care, so you leave confident in how to look after your curls between appointments."
+          },
+          {
+            "type": "paragraph",
+            "text": "No rushing. No one-size-fits-all methods. Just expert, curl-positive care — and beautifully defined curls that help you look and feel fabulous long after you leave the salon."
+          }
+        ]
+      },
+      {
+        "id": "curl-style-no-cut",
+        "title": "Curl Style",
+        "subtitle": "No Cut",
+        "brief": "A curl refresh and styling appointment — enhance what you already have with expert cleansing, conditioning, and definition.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A curl-refresh and styling experience designed to bring your natural texture to life. This service is perfect if you want beautifully defined curls without a haircut — whether you're refreshing your curls between appointments, getting ready for a special occasion, or simply treating yourself to some curl care."
+          },
+          {
+            "type": "paragraph",
+            "text": "Your appointment begins with a consultation to understand your curl pattern and styling goals. Your hair is then cleansed, conditioned, and styled using curl-focused techniques and products selected specifically for your hair's needs — enhancing definition, boosting shine, and reducing frizz."
+          },
+          {
+            "type": "paragraph",
+            "text": "There's no cutting involved — just expert styling and curl-positive care that leaves your curls soft, defined, and full of life, helping you look and feel fabulous when you leave the salon."
+          }
+        ]
+      },
+      {
+        "id": "nut-oil-treatment",
+        "title": "Nourishing Nut Oil Curl Treatment",
+        "subtitle": "",
+        "brief": "A deeply nourishing, nut-oil-rich treatment that restores moisture, soothes the scalp, and leaves curls softer and shinier.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A deeply nourishing treatment designed to restore moisture, enhance shine, and support healthy curls from scalp to ends. This nut oil-based curly hair treatment is perfect for dry, dull, or thirsty curls in need of extra care."
+          },
+          {
+            "type": "paragraph",
+            "text": "Rich in natural oils, it works to replenish lost moisture, improve overall hair and scalp health, and leave curls feeling softer, smoother, and more resilient. The lightweight yet deeply conditioning formula absorbs beautifully into the hair and scalp, helping to soothe dryness while locking in long-lasting hydration."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ideal as a curl boost or regular maintenance treatment, this indulgent service helps your curls stay hydrated, glossy, and full of life long after you leave the salon."
+          }
+        ]
+      },
+      {
+        "id": "curly-refresh-cut",
+        "title": "Curly Hair Refresh Cut",
+        "subtitle": "Dry Cut",
+        "brief": "An express curl-by-curl dry cut designed to tidy, rebalance, and revive your existing curl shape between full appointments.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "An express curl-by-curl refresh, designed to tidy, rebalance, and revive your curls. The Refresh Cut is a dry cutting service, perfect for maintaining your curl shape between full appointments. This express service focuses on refining your existing cut — removing weight where needed, refreshing the shape, and bringing your curls back to life without a full restyle."
+          },
+          {
+            "type": "paragraph",
+            "text": "This service is carried out on dry hair only, so it's essential that you arrive at the salon with your hair freshly washed, dried, and styled in its natural curl pattern. This allows each curl to be cut in its true state, ensuring the shape sits exactly as it does in your everyday wear."
+          },
+          {
+            "type": "note",
+            "text": "Please note: if it has been more than 8 weeks since your last haircut, this service is not recommended. In that case, a Curl Cut & Style appointment will allow enough time to properly reshape and care for your curls."
+          },
+          {
+            "type": "paragraph",
+            "text": "There is no wash or style included — just a precise, curl-by-curl dry cut to refresh your look quickly and effectively. The result is lighter, more balanced curls that look fresh, defined, and feel fabulous."
+          }
+        ]
+      },
+      {
+        "id": "curly-hair-colour",
+        "title": "Curly Hair Colour",
+        "subtitle": "",
+        "brief": "Cruelty-free, vegan colour — enriched with aloe vera, rice protein, and bilberry — placed to work with your curl pattern.",
+        "consultationRequired": true,
+        "consultationNote": "All first-time colour clients are required to attend a consultation and complete a skin test prior to their colour appointment.",
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "Colour designed with curls in mind — to enhance, hydrate, and celebrate your natural texture. This curly hair colour service uses a high-moisture, curl-friendly formula that is cruelty-free and vegan, created to support curl health while delivering beautiful, long-lasting colour."
+          },
+          {
+            "type": "paragraph",
+            "text": "Enriched with aloe vera, rice protein, and bilberry, the colour helps maintain moisture, strengthen the hair, and enhance shine without compromising curl definition. Carefully applied to enhance your natural curl pattern, this service works with your texture, not against it."
+          },
+          {
+            "type": "paragraph",
+            "text": "Whether you're adding soft dimension, brightness, or depth, colour placement is tailored to the way your curls naturally fall — creating movement, radiance, and a result that feels uniquely you. The nourishing formula helps soothe the scalp, improve moisture balance, and leave curls feeling soft, resilient, and full of life."
+          },
+          {
+            "type": "note",
+            "text": "Please note: all first-time colour clients are required to attend a consultation and complete a skin test prior to their colour appointment. This ensures your colour service is safe, suitable, and perfectly tailored to you and your curls."
+          }
+        ]
+      },
+      {
+        "id": "qiqi-hair-control",
+        "title": "Qiqi Hair Control Service",
+        "subtitle": "",
+        "brief": "A salon-grade, damage-free texture treatment — soften, smooth, or control your natural texture without formaldehyde or harsh chemicals.",
+        "consultationRequired": true,
+        "consultationNote": "A separate consultation is required and must be completed before the appointment can be booked.",
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A customisable hair texture service designed to give you total control — without compromising hair health, and to make you look and feel fabulous. Qiqi is a revolutionary, salon-grade hair control treatment that transforms the texture of your hair safely and effectively."
+          },
+          {
+            "type": "paragraph",
+            "text": "Whether you're looking to soften and smooth your curls, reduce frizz, achieve sleek straight hair, or create more manageable, hydrated curls, this service is fully tailored to your hair goals. Unlike traditional straightening or smoothing treatments, Qiqi works using advanced, damage-free technology."
+          },
+          {
+            "type": "paragraph",
+            "text": "The treatment gently softens the hair's internal bonds without breaking them, meaning your hair's integrity, strength, and health are always the priority. There are no harsh chemicals, no formaldehyde, and no outdated processes — just modern science designed to work with your hair, not against it."
+          },
+          {
+            "type": "paragraph",
+            "text": "One of the unique benefits of Qiqi is its flexibility. Results are fully customisable and long-lasting, allowing your hair to be styled straight, worn curly, or anything in between after the service. Your hair remains soft, hydrated, and responsive, giving you freedom and versatility with your look."
+          },
+          {
+            "type": "note",
+            "text": "At Into the Curlz, every Qiqi service begins with a required consultation. This ensures the treatment is suitable for your hair and allows us to tailor the service to your desired outcome. The consultation must be completed before the appointment can be booked."
+          },
+          {
+            "type": "paragraph",
+            "text": "The result? Healthy, beautiful hair with lasting control — designed to make you look and feel fabulous."
+          }
+        ]
+      },
+      {
+        "id": "twist-out",
+        "title": "Twist Out",
+        "subtitle": "Type 4 / Coily Hair",
+        "brief": "A defining, moisture-rich protective style for coily hair — gives long-lasting stretch, definition, and movement.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A defining, moisture-rich style designed to celebrate the beauty and versatility of coily hair. The Twist Out service is ideal for type 4 and coily curls, offering definition, stretch, and long-lasting style while keeping moisture and hair health at the forefront."
+          },
+          {
+            "type": "paragraph",
+            "text": "This protective, low-manipulation style enhances your natural curl pattern, helping coils appear more elongated, defined, and full of movement. Your appointment begins with a gentle cleanse and deep conditioning to ensure the hair is well hydrated and prepared."
+          },
+          {
+            "type": "paragraph",
+            "text": "The hair is then sectioned and twisted using curl-loving products chosen to nourish, define, and support your natural texture. Once the twist outs are created, the twists are left in as a protective style for up to one week. This allows the hair to remain protected while the curl pattern sets beautifully."
+          },
+          {
+            "type": "note",
+            "text": "After one week, you can choose to release the twists at home, or book a follow-up appointment to have them professionally released and styled in the salon."
+          },
+          {
+            "type": "paragraph",
+            "text": "Twist outs are perfect if you're looking for a versatile style that reduces daily manipulation while allowing your natural texture to shine. The result is healthy-looking, moisturised coils with beautiful shape, movement, and shine — helping you look and feel fabulous."
+          }
+        ]
+      },
+      {
+        "id": "protein-treatment",
+        "title": "Curly Hair Protein Treatment",
+        "subtitle": "",
+        "brief": "A curl-friendly protein treatment that strengthens, hydrates, and restores definition — without stiffness or heaviness.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "An indulgent, curl-friendly protein treatment expertly designed to strengthen and hydrate the hair while preserving the natural beauty of your curls. Perfect for curls that feel fragile, lack definition, or have been stressed by colour or styling, it restores essential proteins to support the hair's natural structure — without stiffness or heaviness."
+          },
+          {
+            "type": "paragraph",
+            "text": "Rich, nourishing ingredients work in harmony with your curl pattern to improve elasticity, reduce breakage, and enhance curl formation. The result is hair that looks and feels fabulous — stronger, softer, and beautifully defined with lasting shine and movement."
+          },
+          {
+            "type": "list",
+            "title": "Best for",
+            "items": [
+              "Curls needing strength without sacrificing softness",
+              "Coloured or chemically treated curly hair",
+              "Curls craving definition, resilience, and luxury care"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The results: curls revitalised, resilient, and touchably soft, with enhanced definition, radiant shine, and a healthy finish that looks as good as it feels."
+          }
+        ]
+      },
+      {
+        "id": "modern-perm",
+        "title": "Modern Perm Service",
+        "subtitle": "",
+        "brief": "Soft, touchable waves reimagined for today — the Quif magi:form Acid Wave System, powered by hydrolyzed vegetable proteins.",
+        "consultationRequired": true,
+        "consultationNote": "A personalised consultation is required prior to booking to assess your hair's condition, porosity, and suitability.",
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "Picture this: soft, touchable waves, hair that feels as healthy as it looks, and texture so natural you can't stop running your fingers through it. Our Modern Perm Service is all about bringing perming back — reimagined for today, with hair care at the heart of the process."
+          },
+          {
+            "type": "paragraph",
+            "text": "We use the Quif magi:form Acid Wave System, a next-generation perming system designed to create beautifully natural curls and waves while caring for the hair. Powered by hydrolyzed vegetable proteins, the formula helps protect the hair during the perming process, improving strength and condition while adding lasting texture."
+          },
+          {
+            "type": "paragraph",
+            "text": "Each service is fully customised using extra body solutions tailored to your hair type — whether your hair is resistant, natural, or coloured — ensuring a true-to-rod-size curl with softness, movement, and longevity. This gentle acid-based system is especially suited to hair with mild dryness or porosity, delivering curls that feel nourished, not compromised."
+          },
+          {
+            "type": "note",
+            "text": "Consultation required. A personalised consultation is required prior to booking to assess your hair's condition, porosity, and suitability for this service. This allows us to create a tailored plan and ensure the best possible results while maintaining the health of your hair."
+          },
+          {
+            "type": "list",
+            "title": "Perfect for",
+            "items": [
+              "Soft, natural-looking waves or curls",
+              "Fine, fragile, or colour-treated hair",
+              "Clients wanting long-lasting texture with a gentler approach"
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Why it's perm-fect",
+            "items": [
+              "Texture meets condition with nourishing vegetable proteins",
+              "Soft, touchable waves that last",
+              "A modern, curl-friendly system designed with hair health in mind"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "signature-haircut-blowdry",
+        "title": "Signature Haircut & Blowdry",
+        "subtitle": "",
+        "brief": "A precision haircut and professional blowdry, delivered by a senior stylist with 20+ years of industry experience.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "Our Signature Haircut & Blowdry is a classic service delivered with confidence, precision, and a deep understanding of hair. Performed by a senior stylist with over 20 years of industry experience, this service reflects a career built on advanced education, technical skill, and a thoughtful, personalised approach."
+          },
+          {
+            "type": "paragraph",
+            "text": "Each appointment begins with a detailed consultation to understand your hair, lifestyle, and desired result. Your stylist will create a beautifully balanced cut designed to enhance natural movement and shape, ensuring your hair is easy to style and grows out seamlessly."
+          },
+          {
+            "type": "paragraph",
+            "text": "Finished with a professional blowdry, your hair will look and feel fabulous — polished, effortless, and expertly crafted."
+          },
+          {
+            "type": "list",
+            "title": "Perfect for",
+            "items": [
+              "Clients seeking a highly experienced stylist",
+              "Precision cutting with a tailored finish",
+              "Timeless, wearable results"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fabulous-blowdry-styling",
+        "title": "Fabulous Blowdry & Styling",
+        "subtitle": "",
+        "brief": "Expert finishing, refined technique, and effortless polish — sleek, flowing, or full of body, tailored to you.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "This service is all about expert finishing, refined technique, and effortless polish. Delivered by a senior stylist with extensive industry and education experience, our Fabulous Blowdry & Styling service combines technical mastery with a calm, confident approach."
+          },
+          {
+            "type": "paragraph",
+            "text": "Your appointment begins with a personalised consultation to understand the look you're after — whether that's smooth and sleek, soft and flowing, or full of body and movement. Using advanced styling techniques and a deep understanding of hair behaviour, your stylist creates a finish that not only looks beautiful in the salon but wears well beyond your visit."
+          },
+          {
+            "type": "paragraph",
+            "text": "The result is hair that looks polished, balanced, and beautifully styled — with a finish that feels luxurious, wearable, and tailored to you."
+          },
+          {
+            "type": "list",
+            "title": "Ideal for",
+            "items": [
+              "Everyday styling or special occasions",
+              "Clients seeking professional, consistent results",
+              "Long-lasting, expertly styled finishes"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lighting-services",
+        "title": "Lighting Services",
+        "subtitle": "Highlights · Balayage · Ombré · Babylights",
+        "brief": "Bespoke lightening — highlights, balayage, babylights, and ombré — customised to your hair type, texture, and style.",
+        "consultationRequired": true,
+        "consultationNote": "All first-time colour clients must attend a consultation and complete a skin test prior to their appointment.",
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "Bespoke lighting services designed to add brightness, dimension, and movement to your hair. Our lighting services are fully customised to suit your hair type, texture, and personal style — whether you're dreaming of soft, sun-kissed balayage, delicate babylights, bold highlights, or a seamless ombré."
+          },
+          {
+            "type": "paragraph",
+            "text": "We use professional cruelty-free and vegan lightening products, formulated with advanced cellular bonding technology to help keep the hair strong and supported throughout the lightening process. This allows us to achieve beautiful, radiant colour while prioritising the health, condition, and integrity of your hair."
+          },
+          {
+            "type": "paragraph",
+            "text": "All lighting services begin with a thorough consultation to discuss your hair goals, colour history, and desired outcome."
+          },
+          {
+            "type": "note",
+            "text": "Please note: all first-time colour clients are required to attend a consultation and complete a skin test prior to their colour appointment. This ensures the service is safe, suitable, and perfectly tailored to you."
+          },
+          {
+            "type": "paragraph",
+            "text": "The result is radiant, beautifully blended colour with strength, shine, and dimension — helping you look and feel fabulous."
+          }
+        ]
+      },
+      {
+        "id": "childrens-curly-cut",
+        "title": "Children's Curly Cut",
+        "subtitle": "",
+        "brief": "A curl-friendly haircut designed for growing curls — plus simple at-home care guidance for parents.",
+        "consultationRequired": false,
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "A curl-friendly haircut designed especially for growing curls. Our Children's Curly Cut is tailored for children with wavy, curly, or coily hair, focusing on shaping and caring for curls in a way that supports healthy growth and natural texture. This service is designed to work with your child's curls, not against them, helping to create a shape that is easy to manage and grows out beautifully."
+          },
+          {
+            "type": "paragraph",
+            "text": "Each cut is carried out with your child's curls in their natural state, allowing the shape to reflect how the hair is worn every day. The focus is on maintaining balance, reducing bulk where needed, and enhancing curl definition while keeping hair healthy and comfortable."
+          },
+          {
+            "type": "paragraph",
+            "text": "This service also supports parents, helping them learn simple skills to use at home to keep their children's hair looking beautiful between appointments. Ideal for maintaining curl shape, encouraging healthy hair habits, and helping children feel confident with their natural curls."
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "label": "BOOK YOUR CURL APPOINTMENT",
+      "href": "#footer"
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "MEET YOUR STYLIST",
+    "heading": "Hi, I'm Hayley.",
+    "paragraphs": [
+      "I'm a curly hair specialist who believes curls should be understood, celebrated, and worn with confidence. With over 20 years of experience working with wavy, curly, and coily hair, I've built my career around helping people embrace their natural texture and truly love their curls.",
+      "Based in the heart of Shropshire, I've created a curl-positive salon space where textured hair is not just welcomed, but championed — so you can look and feel fabulous every day.",
+      "I'm internationally trained, and my journey has taken me through hands-on salon work, advanced curl education, and professional teaching. That depth of experience shapes everything I do. My approach goes far beyond styling — every appointment is rooted in curl science, hair health, and long-term care. There are no shortcuts or one-size-fits-all routines here, because every curl pattern is unique.",
+      "I'm deeply passionate about empowering my clients, which is why I've also developed my own curl-focused product line. Designed to enhance, define, and protect curls, these products are the result of years of hands-on experience and real-world testing — supporting healthy, happy curls both in and out of the salon.",
+      "Whether you're embracing your curls for the first time or refining your routine, you'll find expert guidance, honest advice, and curl-positive care in a space where your natural hair is always the priority — helping you look and feel fabulous at every stage of your curl journey."
+    ]
+  }
+}
