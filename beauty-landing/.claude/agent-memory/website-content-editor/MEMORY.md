@@ -1,0 +1,4 @@
+- [Client brand and brief](client_brand.md) — real client is Hayley Imran / "Into the Curlz", curl-positive salon in Shropshire UK; source brief is content.md
+- [Voice and locale](voice_and_locale.md) — UK English, first-person for Hayley, second-person "your curls", signature phrase "look and feel fabulous"
+- [Data and types coupling](data_types_coupling.md) — placeholder.json drives homepage; types.ts was out-of-sync with actual JSON; sections redeclare inline prop interfaces
+- [Products price rendering](products_price.md) — Products.tsx now renders `£{price}` directly instead of `$ {price} {currency}`
